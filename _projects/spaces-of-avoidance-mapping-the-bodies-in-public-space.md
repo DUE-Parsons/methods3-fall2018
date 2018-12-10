@@ -1,6 +1,6 @@
 ---
 layout: project-page
-title: "Spaces of Avoidance: Mapping the bodies in public space"
+title: "Spaces of Avoidance: Mapping bodies in public space"
 linkname: spaces-of-avoidance-mapping-the-bodies-in-public-space
 author: "Alie Kilts"
 tagline: "Our bodies turn into data post-incident, but what would it look like to collect it before?"

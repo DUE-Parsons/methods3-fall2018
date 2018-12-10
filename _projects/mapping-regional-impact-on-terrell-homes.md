@@ -236,8 +236,6 @@ City councilman Amador, was quoted remarking on the superfund site, “the prope
 
 Unfortunately this flood zone seems to make sense when you consider the historic development of the Morris canal which kind of made this area an island.
 
-![]({{ page.img-folder }}WbAdXKV.jpg)
-
 Or when you consider that half of this area was never even land to begin with.
 
 ![]({{ page.img-folder }}AGYBYcp.jpg)
