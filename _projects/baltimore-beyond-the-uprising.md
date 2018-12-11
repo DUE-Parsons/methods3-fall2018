@@ -13,7 +13,7 @@ project-link:
     - href:  https://thenewschool.carto.com/u/gpaik/builder/706eb825-b88b-46a9-8550-bf9f40314059/embed
 tags:
     - tag: uprising, housing, policing, zoning
-thumbnail-path: img/baltimore-beyond-the-uprising/lICCHBZ.jpg
+thumbnail-path: img/baltimore-beyond-the-uprising/h3eAQbT.jpg
 img-folder: ../../img/baltimore-beyond-the-uprising/
 timestamp: 12/8/2018 12:03:09
 ---
